@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wangchenlong/Exercises/WeiXinDemo/app/libs/libammsdk.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="c1f63f70671d69ee38379728e1192db82e289246">
+        <dex dex="/Users/wangchenlong/Exercises/WeiXinDemo/app/build/intermediates/pre-dexed/debug/libammsdk-84ffa77fea7de7788f8dac139b7ea27c9617582b.jar" />
+    </item>
+
+</items>

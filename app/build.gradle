@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    compileSdkVersion 20
+    buildToolsVersion "21.0.0"
+
+    defaultConfig {
+        applicationId "net.sourceforge.simcpux"
+        minSdkVersion 4
+        targetSdkVersion 20
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    signingConfigs {
+        debug {
+            storeFile file('/Users/wangchenlong/Exercises/WeiXinDemo/debug.keystore')
+        }
+    }
+
+}
+
+dependencies {
+    compile files('libs/libammsdk.jar')
+}

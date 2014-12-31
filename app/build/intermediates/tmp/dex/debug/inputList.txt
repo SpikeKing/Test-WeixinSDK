@@ -1,0 +1,2 @@
+/Users/wangchenlong/Exercises/WeiXinDemo/app/build/intermediates/classes/debug
+/Users/wangchenlong/Exercises/WeiXinDemo/app/build/intermediates/pre-dexed/debug/libammsdk-84ffa77fea7de7788f8dac139b7ea27c9617582b.jar
